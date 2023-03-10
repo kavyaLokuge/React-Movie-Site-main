@@ -7,7 +7,15 @@ In this project, I have used two APIs, 2embed.to and TheMovieDB, to retrieve inf
 
 My goal was to provide a simple yet effective solution for anyone who wants to watch movies and TV shows for free using their web browser.
 
-![streaming-screenshot-3-2023-03-10]()
+### Home
+![streaming-screenshot-3-2023-03-10](https://github.com/kavyaLokuge/WatchTopia/blob/master/ScreenShots/Home.png)
+![streaming-screenshot-1-2023-03-10](https://github.com/kavyaLokuge/WatchTopia/blob/master/ScreenShots/list.png)
+### Search
+![streaming-screenshot-3-2023-03-10](https://github.com/kavyaLokuge/WatchTopia/blob/master/ScreenShots/search.png)
+
+### Description, Share buttons etc.
+![streaming-screenshot-2-2023-03-10](https://github.com/kavyaLokuge/WatchTopia/blob/master/ScreenShots/description.png)
+
 
 # Getting Started
 
@@ -20,7 +28,4 @@ My goal was to provide a simple yet effective solution for anyone who wants to w
 * You will get the final site files in /dist which you can upload to your server
 * You only need a static server to host this site, so you could use something like Netlify to host it for free.
 
-# Screenshots
 
-![streaming-screenshot-1-2023-03-10]()
-![streaming-screenshot-2-2023-03-10]()
